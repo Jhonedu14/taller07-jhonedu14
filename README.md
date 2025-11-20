@@ -1,4 +1,6 @@
 # Taller07
+Jhon Edu Pardo Condolo 
+Dalton Angamarca
 ## Parte 1
 
 ### Taller 7 (Laboratorio): Construcción de programas usando estructuras de control repetitivas (while)
